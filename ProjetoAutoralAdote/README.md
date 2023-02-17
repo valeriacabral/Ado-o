@@ -7,3 +7,5 @@ O Adote Um Gatinho, resgata, trata, castra e doa gatinhos para lares seguros em 
 
 
 Feito com HTML, CSS e Javascript
+
+deploy: adote-gatinho.netlify.app
